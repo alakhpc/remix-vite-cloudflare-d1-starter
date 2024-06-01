@@ -12,7 +12,8 @@
     "typecheck": "tsc",
     "typegen": "wrangler types",
     "db:generate": "drizzle-kit generate",
-    "db:migrate": "drizzle-kit migrate"
+    "db:migrate": "drizzle-kit migrate",
+    "db:studio": "drizzle-kit studio"
   },
   "dependencies": {
     "@remix-run/cloudflare": "^2.9.2",
