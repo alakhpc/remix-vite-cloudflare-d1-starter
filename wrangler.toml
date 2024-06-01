@@ -1,0 +1,7 @@
+name = "CF_PROJECT_NAME"
+pages_build_output_dir = "./build/client"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "DATABASE_NAME"
+database_id = "DATABASE_ID"
