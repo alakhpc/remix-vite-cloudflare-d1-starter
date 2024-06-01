@@ -1,7 +1,7 @@
-name = "CF_PROJECT_NAME"
+name = "remenu_test"
 pages_build_output_dir = "./build/client"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "DATABASE_NAME"
-database_id = "DATABASE_ID"
+database_name = "remenu"
+database_id = "94711790-8538-40e4-aa39-961cbd1bc8df"
