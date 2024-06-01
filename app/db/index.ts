@@ -5,4 +5,4 @@ export function makeDrizzle(d1: D1Database) {
   return drizzle(d1, { schema: { ...tables } });
 }
 
-export type Database = Awaited<ReturnType<typeof makeDrizzle>>;
+export type Database = ReturnType<typeof makeDrizzle>;
